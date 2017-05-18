@@ -1,0 +1,3 @@
+*.mp3
+/vendor/bundle
+.bundle
